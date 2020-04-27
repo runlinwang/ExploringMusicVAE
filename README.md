@@ -20,11 +20,11 @@ All development took place locally, but for learning purposes I used some tutori
 
 1. Learn more about the magenta/MusicVAE framework and commands, as well as VAEs in general through external resources. (found in the "resources" folder)
 2. Explore the pretrained models for MusicVAE and their functionality. (all in "pretrained" folder)
-  a. Interpolate musical sequences between arbitrary givens
-  b. Sample new music from the pre-trained system
+  1. Interpolate musical sequences between arbitrary givens
+  2. Sample new music from the pre-trained system
 2. Use calming music data in rudimentary model (found in the "own_model" folder)
-  a. Interpolating using the pretrained model but between our own musical sequences
-  b. Training my own model on the calming music to sample new note sequences from
+  1. Interpolating using the pretrained model but between our own musical sequences
+  2. Training my own model on the calming music to sample new note sequences from
 
 Please navigate to the respective folders to find more information about the specific methodology of my project at each stage.
 
@@ -60,5 +60,7 @@ https://github.com/MaybeShewill-CV/CRNN_Tensorflow/issues/311
 https://support.apple.com/en-ca/guide/terminal/apdc52250ee-4659-4751-9a3a-8b7988150530/mac
 https://groups.google.com/a/tensorflow.org/forum/#!topic/magenta-discuss/8nF8VwfVSuo
 https://blogs.oracle.com/datascience/types-of-machine-learning-and-top-10-algorithms-everyone-should-know-v2
+
 Bioai Deep Learning Safari Jupyter Notebook, received from Colin Conwell
+
 MusicVAE Tutorial Jupyter Notebook, received from Magenta MusicVAE repository
