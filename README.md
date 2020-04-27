@@ -20,11 +20,11 @@ All development took place locally, but for learning purposes I used some tutori
 
 1. Learn more about the magenta/MusicVAE framework and commands, as well as VAEs in general through external resources. (found in the "resources" folder)
 2. Explore the pretrained models for MusicVAE and their functionality. (all in "pretrained" folder)
-  1. Interpolate musical sequences between arbitrary givens
-  2. Sample new music from the pre-trained system
+- Interpolate musical sequences between arbitrary givens
+- Sample new music from the pre-trained system
 2. Use calming music data in rudimentary model (found in the "own_model" folder)
-  1. Interpolating using the pretrained model but between our own musical sequences
-  2. Training my own model on the calming music to sample new note sequences from
+- Interpolating using the pretrained model but between our own musical sequences
+- Training my own model on the calming music to sample new note sequences from
 
 Please navigate to the respective folders to find more information about the specific methodology of my project at each stage.
 
