@@ -1,0 +1,1 @@
+Note: The ```music_vae_train.py```, ```configs.py```, and ```base_model.py``` code files are directly from the magenta repository and are placed here for easy reference for the actual specifications and functionality of the model training process and the hyperparameters.
