@@ -1,6 +1,6 @@
 # Commands
 
-All of the following commands were run in this directory on the command line. By setting up the repositories in the same way as indicated in SETUP.md in the parent repository, these commands can be used on any local system as well.
+All of the following commands were run in this directory on the command line. By setting up the repositories in the same way as indicated in SETUP.md in the parent repository, these commands can be used on any local system as well. I learned these command features and largely based them off of those described from magenta GitHub and other online sources, referenced in the parent directory README.
 
 ### For sampling from the pretrained model:
 
